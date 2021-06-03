@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://desiringsubjects.github.io/csb-mocdd/static/css/main.d0abaa30.chunk.css",
+    "main.js": "https://desiringsubjects.github.io/csb-mocdd/static/js/main.208ff85a.chunk.js",
+    "main.js.map": "https://desiringsubjects.github.io/csb-mocdd/static/js/main.208ff85a.chunk.js.map",
+    "runtime~main.js": "https://desiringsubjects.github.io/csb-mocdd/static/js/runtime~main.73072aa3.js",
+    "runtime~main.js.map": "https://desiringsubjects.github.io/csb-mocdd/static/js/runtime~main.73072aa3.js.map",
+    "static/js/2.2497ef8c.chunk.js": "https://desiringsubjects.github.io/csb-mocdd/static/js/2.2497ef8c.chunk.js",
+    "static/js/2.2497ef8c.chunk.js.map": "https://desiringsubjects.github.io/csb-mocdd/static/js/2.2497ef8c.chunk.js.map",
+    "index.html": "https://desiringsubjects.github.io/csb-mocdd/index.html",
+    "precache-manifest.cd157baec6e5c9b573f21c203f3230b5.js": "https://desiringsubjects.github.io/csb-mocdd/precache-manifest.cd157baec6e5c9b573f21c203f3230b5.js",
+    "service-worker.js": "https://desiringsubjects.github.io/csb-mocdd/service-worker.js",
+    "static/css/main.d0abaa30.chunk.css.map": "https://desiringsubjects.github.io/csb-mocdd/static/css/main.d0abaa30.chunk.css.map"
+  }
+}
